@@ -1,0 +1,103 @@
+body{
+    background-image: url("background.jpg");
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+    
+}
+
+.conteiner{
+    background-color:rgb(8, 8, 8);
+    width: 960px auto;
+    color: white;
+}
+
+header{
+    text-align: center;
+}
+
+
+header,footer{
+    background-image: url("background.jpg");
+    padding: 15px;
+
+
+}
+
+aside{
+    width: 15%;
+    float: left;
+    box-sizing: border-box;
+
+}
+
+    
+ul{
+    list-style-type: none;
+}
+
+aside li{
+    margin-bottom: 60px;
+
+    text-align: center;
+    font-family: 'Dancing Script';
+}
+
+
+aside nav ul li a {
+    display: block;
+    padding: 15px 18px;
+    color:black;
+    background-color: rgb(207, 42, 42);
+    font-size: 40px;
+}
+
+
+
+main{
+ width: 85%;
+background-color: rgb(8, 8, 8);
+ font-size: 30px;
+ color: white;
+ float: right;
+ box-sizing: border-box;
+ padding: 30px;
+ 
+ 
+ 
+ 
+
+}
+
+footer{
+    clear: both
+}
+
+#pupin-image{
+float: left;
+width: 15.5%;
+padding: 10px;
+margin: 10px 100px 10px 10px;
+    
+}
+
+h1{
+    text-align: center;
+    padding: 16px;
+    color: rgb(207, 42, 42);
+    font-family: 'Dancing Script';
+}
+
+#coils-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+
+
+
+
+
+
