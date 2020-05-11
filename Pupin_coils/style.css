@@ -47,11 +47,13 @@ aside li{
 aside nav ul li a {
     display: block;
     padding: 15px 18px;
-    color:black;
-    background-color: rgb(207, 42, 42);
-    font-size: 40px;
+    color:rgb(8, 8, 8);
+    font-size: 50px;
 }
 
+a:hover{
+    background-color: rgb(207, 42, 42);
+}
 
 
 main{
